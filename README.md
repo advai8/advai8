@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="ChatGPT Image Jul 19, 2026, 01_04_26 PM.png" width="100%" />
+  <img src="banner.png" alt="Advaith S Banner" width="100%" />
 </p>
 
 # Hi, I'm Advaith S 👋
