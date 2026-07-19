@@ -21,33 +21,9 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- Java
-- JavaScript
-- C
-- SQL
-- HTML & CSS
-
-### Frameworks & Libraries
-- FastAPI
-- Streamlit
-- React
-- Vite
-- YOLOv8
-- PyTorch
-
-### Databases
-- SQLite
-- SQLAlchemy
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Linux
----
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,sqlite,git,github,vscode,linux,pytorch" />
+</p>
 ## 🚀 Featured Projects
 
 ### 🛡️ AI Insider Threat Behavioral Intelligence System
