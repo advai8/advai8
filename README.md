@@ -39,22 +39,33 @@
 </p>
 ## 🚀 Featured Projects
 
-### 🛡️ AI Insider Threat Behavioral Intelligence System
-An AI-powered behavioral analytics platform for detecting insider threats using machine learning, FastAPI, and SQLAlchemy.
+### 🛡️ [AI Insider Threat Behavioral Intelligence System](https://github.com/advai8/insider-threat-behavioral-intelligence-system)
 
-### 🚗 Automatic Number Plate Recognition (ANPR)
-Real-time license plate detection and recognition system built with Python and YOLOv8 for traffic monitoring.
+AI-powered insider threat detection platform using **Machine Learning, FastAPI, SQLAlchemy, and behavioral analytics** to identify anomalous employee activity.
 
-### 💰 Personal Finance Tracker
-A Streamlit application for managing income and expenses with SQLite database integration and interactive dashboards.
-
-### 🌦️ Weather App
-A responsive React application that displays real-time weather information using the Open-Meteo API.
-
-### 🤖 Task Scheduler Bot
-A Telegram bot developed with Python for scheduling tasks and sending automated reminders.
 ---
 
+### 🚗 [Automatic Number Plate Recognition (ANPR)](https://github.com/advai8/ANPR-using-yolo-v8)
+
+Real-time number plate detection system built using **YOLOv8, Python, OpenCV, and OCR** for intelligent traffic monitoring.
+
+---
+
+### 💰 [Personal Finance Tracker](https://github.com/advai8/finance-tracker)
+
+Expense management application built with **Python, Streamlit, and SQLite**, featuring dashboards and persistent storage.
+
+---
+
+### 🌦️ [Weather App](https://github.com/advai8/Weather-app)
+
+Responsive weather application built using **React, Vite, and the Open-Meteo API**.
+
+---
+
+### 🤖 [Task Scheduler Bot](https://github.com/advai8/task-scheduler-bot)
+
+Telegram bot built with **Python** to automate reminders and scheduled tasks.
 ## 📊 GitHub Analytics
 
 <p align="center">
