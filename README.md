@@ -24,7 +24,14 @@
 - 🌱 Currently learning advanced AI and backend development
 - 📍 Kerala, India
 ---
+---
 
+## 🌱 Currently Working On
+
+- 🛡️ AI Insider Threat Behavioral Intelligence System
+- 🤖 Learning Advanced Machine Learning & FastAPI
+- 💻 Building AI-powered Full-Stack Applications
+- 📚 Exploring Cybersecurity & Behavioral Analytics
 ## 🛠️ Tech Stack
 
 <p align="left">
