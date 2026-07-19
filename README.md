@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Advaith S banner.png" alt="Advaith S Banner" width="100%" />
+  <img src="Advaith S Banner.png" alt="Advaith S Banner" width="100%" />
 </p>
 
 # Hi, I'm Advaith S 👋
