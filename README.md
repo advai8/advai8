@@ -46,3 +46,15 @@ A responsive React application that displays real-time weather information using
 
 ### 🤖 Task Scheduler Bot
 A Telegram bot developed with Python for scheduling tasks and sending automated reminders.
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=advai8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advai8&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=advai8&theme=tokyonight&hide_border=true" />
+</p>
