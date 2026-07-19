@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Advaith S 👋
 
-<!--
-**advai8/advai8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Full-Stack Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, Cybersecurity, and Full-Stack Development.
+
+🚀 Currently building intelligent applications with Python, FastAPI, React, and Machine Learning.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 🤖 Interested in AI, Machine Learning, and Cybersecurity
+- 💻 Building real-world software projects
+- 🌱 Currently learning advanced AI and backend development
+- 📍 Kerala, India
