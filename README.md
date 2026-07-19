@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Advaith S Banner" width="100%" />
+</p>
+
 # Hi, I'm Advaith S 👋
 
 ### AI & Full-Stack Developer
