@@ -1,7 +1,9 @@
 <p align="center">
   <img src="Advaith S Banner.png" alt="Advaith S Banner" width="100%" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=4F8DFF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Full-Stack+Developer;Computer+Science+Engineering+Student;Building+Intelligent+Systems;Always+Learning+Something+New" />
+</p>
 # Hi, I'm Advaith S 👋
 
 ### AI & Full-Stack Developer
