@@ -46,3 +46,21 @@
 - GitHub
 - VS Code
 - Linux
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ AI Insider Threat Behavioral Intelligence System
+An AI-powered behavioral analytics platform for detecting insider threats using machine learning, FastAPI, and SQLAlchemy.
+
+### 🚗 Automatic Number Plate Recognition (ANPR)
+Real-time license plate detection and recognition system built with Python and YOLOv8 for traffic monitoring.
+
+### 💰 Personal Finance Tracker
+A Streamlit application for managing income and expenses with SQLite database integration and interactive dashboards.
+
+### 🌦️ Weather App
+A responsive React application that displays real-time weather information using the Open-Meteo API.
+
+### 🤖 Task Scheduler Bot
+A Telegram bot developed with Python for scheduling tasks and sending automated reminders.
